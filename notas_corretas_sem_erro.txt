@@ -1,0 +1,87 @@
+Materia Peso Nota
+
+CalculoI 90 61
+GAAV 90 60
+Introducao 30 100
+LPCI 30 100
+Discreta 60 76
+Metodologia 30 96
+Portugues 30 76
+PCI 30 86
+
+CalculoII 90 63
+CG 60 100
+Filotec 30 98
+FisicaI 60 70
+InglesI 30 92
+LPCII 30 96
+LQuim 30 80
+LSD 30 98
+PCII 30 85
+Quim 60 83
+SD 30 76
+
+AEDSI 60 81
+AOCI 60 81
+CalculoIII 60 71
+Estatistica 60 78
+FisExpI 30 71
+FisicaII 60 90
+LAEDSI 30 86
+LAOCI(96nao88) 30 96 		
+Metodos 60 90
+Paralela 60 76
+
+Alglin 60 68
+AEDSII 60 93
+AOCII 60 81
+CalculoIV 60 60
+FisExpII 30 85
+FisicaIII 60 92
+LAEDSII 30 100
+LAOCII 30 100
+LLP 30 89
+LP 30 91
+Linux 30 89
+
+BDI 60 72
+IA 60 79
+LBD 30 64
+LIA 30 100
+LMDS 30 78
+LFA 60 77
+MDS 60 75 	
+PCD 60 71		
+OTI 60 75
+SeS 60 74
+
+CSD 60 69
+ENGSOFT 60 69
+LCSD 30 80
+LENGSOFT 30 73
+LRED 30 86
+LSO 30 89
+ORGEMP 30 66
+RED 60 68
+SO 60 70
+
+CTX 30 100
+Estagio 30 95
+IHC 60 85
+OTII 60 69
+Psi 30 85
+
+CDSD 60 85
+IC 90 95
+Adm 30 100
+Socio 30 99
+LCDSD 30 100
+Metodologia 30 93
+TCC1 15 90
+
+SD 60 94
+Compiladores 60 100
+ComputerVision 60 100
+TCC2 15 94
+
+_ignore_MateriaASerIgnorada 0 0

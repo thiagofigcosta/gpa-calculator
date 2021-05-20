@@ -1,0 +1,135 @@
+Primeiro Periodo:
+
+Horas OB: 390
+Horas OP: 0
+Horas TT: 390
+
+TOTAL OB: 390
+TOTAL OP: 0
+TOTAL TT: 390
+
+(90 + 90 +30 + 30 + 60 + 30 + 30 + 30)
+
+
+Segundo Periodo:
+
+Horas OB: 390
+Horas OP: 90
+Horas TT: 480
+
+TOTAL OB: 780
+TOTAL OP: 90
+TOTAL TT: 870
+
+(90 + 60 + 30 + 60 + 30 + 30 + 30 + 30 + 30)
+(30 + 60)
+
+Terceiro Periodo:
+
+Horas OB: 390
+Horas OP: 120
+Horas TT: 510
+
+TOTAL OB: 1170
+TOTAL OP: 210
+TOTAL TT: 1380
+
+(60 + 60 + 60 + 30 + 60 + 30 + 30 + 60)
+(60 + 60)
+
+Quarto Periodo:
+
+Horas OB: 450
+Horas OP: 30
+Horas TT: 480
+
+TOTAL OB: 1620
+TOTAL OP: 240
+TOTAL TT: 1860
+
+(60 + 60 + 60 + 60 + 30 + 60 + 30 + 30 + 30 + 30)
+(30)
+
+
+Quinto Periodo:
+
+Horas OB: 450
+Horas OP: 60
+Horas TT: 510
+
+TOTAL OB: 2070
+TOTAL OP: 300
+TOTAL TT: 2370
+
+(60 + 60 + 30 + 30 + 30 + 60 + 60 + 60 + 60)
+(60)
+
+Sexto Periodo:
+
+Horas OB: 390
+Horas OP: 0
+Horas TT: 390
+
+TOTAL OB: 2460
+TOTAL OP: 300
+TOTAL TT: 2760
+
+(60 + 60 + 30 + 30 + 30 + 30 + 30 + 60 + 60)
+(0)
+
+
+Setimo Periodo:
+
+Horas OB: 210
+Horas OP: 0
+Horas TT: 210
+
+TOTAL OB: 2970
+TOTAL OP: 300
+TOTAL TT: 3270
+
+(30 + 30 + 60 + 60 + 30 + 300)
+(0)
+
+
+Oitavo Periodo:
+
+Horas OB: 0
+Horas OP: 0
+Horas TT: 0
+
+TOTAL OB: 2070
+TOTAL OP: 300
+TOTAL TT: 2370
+
+()
+()
+
+
+Nono Periodo:
+
+Horas OB: 0
+Horas OP: 0
+Horas TT: 0
+
+TOTAL OB: 2070
+TOTAL OP: 300
+TOTAL TT: 2370
+
+()
+()
+
+
+Decimo Periodo:
+
+Horas OB: 0
+Horas OP: 0
+Horas TT: 0
+
+TOTAL OB: 2070
+TOTAL OP: 300
+TOTAL TT: 2370
+
+()
+()
+
